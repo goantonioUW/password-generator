@@ -5,3 +5,7 @@ Numbers or special characters. If you decline all options you will not get a pas
 
 To do’s 
 There is a copy to clipboard button that is not currently working. This is something that I think will be really nice to have with this app.
+
+
+This is the live link
+https://goantoniouw.github.io/password-generator/
