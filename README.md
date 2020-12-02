@@ -9,3 +9,5 @@ There is a copy to clipboard button that is not currently working. This is somet
 
 This is the live link
 https://goantoniouw.github.io/password-generator/
+
+![Screenshot of the password generator](http://url/to/img.png)
