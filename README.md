@@ -9,7 +9,7 @@ There is a copy to clipboard button that is not currently working. This is somet
 # Live link
 https://goantoniouw.github.io/password-generator/
 
-#Screenshots
+# Screenshots
 Once you click the generate password button a list of prompts will guide you through the process of picking a password that meets your standards. 
 ![Screenshot of the password generator prompt](images/screenshot2.png)
 
