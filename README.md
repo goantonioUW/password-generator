@@ -14,7 +14,7 @@ Once you click the generate password button prompts will guide you through the p
 
 ![Screenshot of the password generator prompt](images/prompt.png)
 
-This is the secure password after following all the prompts.  
+This is the generated password after following all the prompts.  
 
 ![Screenshot of the password generator](images/screenshot1.png)
 
