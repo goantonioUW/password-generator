@@ -10,9 +10,11 @@ There is a copy to clipboard button that is not currently working. This is somet
 https://goantoniouw.github.io/password-generator/
 
 # Screenshots
-Once you click the generate password button a list of prompts will guide you through the process of picking a password that meets your standards. 
+Once you click the generate password button prompts will guide you through the process of picking a password that meets your standards. 
+
 ![Screenshot of the password generator prompt](images/prompt.png)
 
 This is the secure password after following all the prompts.  
+
 ![Screenshot of the password generator](images/screenshot1.png)
 
